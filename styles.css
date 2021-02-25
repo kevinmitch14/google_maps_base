@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", "Arial";
+}
+
+.info-window .station-name {
+  padding-top: 1em;
+}
+
+.info-window .info-content {
+  padding: 1em;
+  font-size: 1.2em;
+}
+
+.info-window .info-content p {
+  padding: 0.5em;
+}
+
+#map {
+  position: fixed !important;
+  height: 100%;
+  width: 100%;
+}
+/*# sourceMappingURL=styles.css.map */
